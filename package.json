@@ -1,8 +1,8 @@
 {
-  "name": "basic-bot",
+  "name": "NombreDeTuBot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "discord.js": "^11.4.2"
   },
